@@ -24,7 +24,7 @@
 
 ### 软件
 - Arduino IDE (烧录固件)
-- Python 3.x
+- Python 3.11
 - OpenCV
 - pyserial
 
